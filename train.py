@@ -16,6 +16,5 @@ def main():
     save_model(model)
 
 
-# Only run main() if this script is executed directly
 if __name__ == "__main__":
     main()
